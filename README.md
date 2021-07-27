@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @everythingokay
-- 👀 I’m interested in ... political economics, the Philadelphia 76ers, and being outdoors.
+- 💡 I’m interested in ... political economics, the Philadelphia 76ers, and being outdoors.
 - 🌱 I’m currently learning ... Python!
-- 💞️ I’m looking to collaborate on ... studying.
+- 🥨 I’m looking to collaborate on ... studying.
 - ✉️ How to reach me ... alison.feldish@gmail.com ✌️
 
 <!---
